@@ -1,0 +1,5 @@
+1) Add more areas /procedurally generate them
+2) automate enemy production based on level and 'class'?
+     - kind of implemented
+     
+3) might be issue with player hp, needs to be * by statPriotity not 2???
